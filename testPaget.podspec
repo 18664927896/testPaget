@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'testPaget'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of testPaget.'
+  s.version          = '1.0.0'
+  s.summary          = '一个测试demo'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
