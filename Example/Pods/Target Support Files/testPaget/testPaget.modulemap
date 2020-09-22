@@ -1,0 +1,6 @@
+framework module testPaget {
+  umbrella header "testPaget-umbrella.h"
+
+  export *
+  module * { export * }
+}
